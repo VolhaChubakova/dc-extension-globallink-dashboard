@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/dc-extension-globallink-dashboard/static/css/main.0f0d747c.css",
+    "main.js": "/dc-extension-globallink-dashboard/static/js/main.5a60c2e1.js",
+    "index.html": "/dc-extension-globallink-dashboard/index.html",
+    "static/media/FilterIcon.svg": "/dc-extension-globallink-dashboard/static/media/FilterIcon.132024445966f0a4f40b9dbdf5d881b8.svg"
+  },
+  "entrypoints": [
+    "static/css/main.0f0d747c.css",
+    "static/js/main.5a60c2e1.js"
+  ]
+}
